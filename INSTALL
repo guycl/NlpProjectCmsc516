@@ -1,0 +1,11 @@
+1. Download and build Python 3.7 or the latest stable release from: https://www.python.org/downloads/source/
+   Alternatively, Ubuntu users can install python 3.7
+   $ sudo apt-get update
+   $ sudo apt-get install python3.7
+2. Download anaconda installer from: https://www.anaconda.com/products/individual
+3. Follow installer prompts to install anaconda
+4. Update anaconda from the terminal/command line:
+   conda update conda
+   conda update anaconda
+5. Update scikit-learn from the terminal/command line:
+   conda update scikit-learn
